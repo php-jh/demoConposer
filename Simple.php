@@ -1,5 +1,5 @@
 <?php
-namespace test\test;
+namespace test\jianghua;
 /**
  * Created by PhpStorm.
  * User: ${蒋华}
