@@ -1,5 +1,5 @@
 <?php
-namespace testcomposer;
+namespace test\test;
 /**
  * Created by PhpStorm.
  * User: ${蒋华}
