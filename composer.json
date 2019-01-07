@@ -1,0 +1,14 @@
+{
+    "name": "text/test",
+    "description": "ceshiyixia",
+    "type": "libray^[[d",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jiang",
+            "email": "1169363434@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
